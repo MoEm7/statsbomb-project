@@ -1,0 +1,6 @@
+select * from  player where player_id is null ;
+
+select * from  match where match_id is null ;
+
+select * from  team where team_id is null ;
+
